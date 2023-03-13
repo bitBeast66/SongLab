@@ -1,0 +1,11 @@
+.collection {
+    margin: 10px;
+}
+
+.material-icons {
+    cursor: pointer;
+}
+
+li span {
+    cursor: pointer;
+}
